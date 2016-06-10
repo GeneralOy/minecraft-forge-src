@@ -35,9 +35,9 @@ public class PlayGround {
 		ItemMaker.newSword("Waffle");
 		ItemMaker.newSword("drew");
 		*/
-		ItemMaker.newSword("Basic Sword").setName("Basic Sword")
+		ItemMaker.newSword("BasicSword").setName("Basic Sword")
 				.setTexture("BasicSword");
-
+		
 		//ItemMaker.newSword("Basic Sword").setCreativeTab(CreativeTabs.tabCombat);
 		//ItemMaker.newSword("Basic Sword");
 		//ItemMaker.newSword("Basic Sword");
